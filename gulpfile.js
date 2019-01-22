@@ -54,3 +54,4 @@ gulp.task('build', (callback) => {
 });
 
 gulp.task('default', ['build']);
+//added git ignore
